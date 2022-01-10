@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/iamskidrow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamskidrow" height="30" width="40" /></a>
 <a href="https://fb.com/iamskidrow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamskidrow" height="30" width="40" /></a>
 <a href="https://instagram.com/ayon1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayon1337" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucyhe5qoxxgkpcvbu2u25m-w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucyhe5qoxxgkpcvbu2u25m-w" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCYHE5QOXxgKPCvbu2u25M-w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucyhe5qoxxgkpcvbu2u25m-w" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/iamskidrow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iamskidrow" height="30" width="40" /></a>
 </p>
 
