@@ -1,16 +1,14 @@
-<h4 align="center"> Hey there! 👋 I'm Ayon </h4>
+<h4 align="center">I'm Ayon (22) 👋 [ A Software Engineer & Independent Security Researcher ]</h4>
 
  ---
  
-**About Me**
+<h4 align="center">About</h4>
 
-<p>• 21yo BCA student with 4+ years of experience in Penetration Testing, Exploit Development, and Automation.</p>
-<p>• Further interested about learning new technologies.</p>
-<p>• Capable of carrying out tasks as per needs while managing time efficiency</p>
+<p>My experience in both software engineering and cyber security has equipped me with a unique perspective that allows me to design and develop software applications with security in mind from the outset. </p>
 
  ---
  
-**Languages and Tools:**
+<h4 align="center">Languages and Tools</h4>
 
 <p align="center">
 
@@ -22,8 +20,12 @@
   </p>
 
  ---
- 
-**Github Stats:**
+
+ <a href=#><img src="contributions.svg"></a>
+
+ --- 
+
+<h4 align="center">Github Stats</h4>
 
 <div align="center">
   
@@ -33,8 +35,10 @@
 
  ---
  
-  <p align="center">
-    <img align="center" src="https://komarev.com/ghpvc/?username=iamskidrow&label=Profile%20views&color=0e75b6&style=flat" alt="iamskidrow"/>
+  <p align="center"> 
+    <b>Visitor count<b>
+     <br> <br>
+    <img src="https://profile-counter.glitch.me/iamskidrow/count.svg" />
   </p>
 </p>
 
