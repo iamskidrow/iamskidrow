@@ -2,14 +2,10 @@
 
  ---
  
-<h4 align="center">About</h4>
-
 <p>My experience in both software engineering and cyber security has equipped me with a unique perspective that allows me to design and develop software applications with security in mind from the outset. </p>
 
  ---
  
-<h4 align="center">Languages and Tools</h4>
-
 <p align="center">
 
   <div align="center">
@@ -21,15 +17,13 @@
 
  ---
 
- <a href=#><img src="contributions.svg"></a>
+ <a href=#><img align="center" src="contributions.svg"></a>
 
  --- 
 
-<h4 align="center">Github Stats</h4>
-
 <div align="center">
   
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=iamskidrow&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamskidrow&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="#/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=iamskidrow&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamskidrow&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
   
 </div>
 
