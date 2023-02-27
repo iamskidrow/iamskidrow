@@ -1,6 +1,4 @@
 <h4 align="center">I'm Ayon (22) 👋 [ A Software Engineer & Independent Security Researcher ]</h4>
-
- ---
  
 <p>My experience in both software engineering and cyber security has equipped me with a unique perspective that allows me to design and develop software applications with security in mind from the outset. </p>
 
